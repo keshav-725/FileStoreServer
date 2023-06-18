@@ -1,0 +1,7 @@
+com/redhat/commands/RemoveCommand.class
+com/redhat/constants/CommandConstants.class
+com/redhat/commands/ListCommand.class
+com/redhat/commands/WordCountCommand.class
+com/redhat/commands/FreqWordCommand.class
+com/redhat/FileStoreServer.class
+com/redhat/commands/AddCommand.class
