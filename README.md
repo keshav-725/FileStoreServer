@@ -14,6 +14,7 @@ The File Store Server is a component of the file store system that allows client
 `
 git clone git@github.com:keshav-725/FileStoreServer.git
 `
+
 2. Move to Server Directory 
 
 `cd FileStoreServer`
